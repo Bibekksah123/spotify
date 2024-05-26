@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "A:/chatgpt4"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Spotify Clone"
+	}
+}
